@@ -1,1 +1,1 @@
-# I'll be documenting my journey of 100 DaysOfDSA. This repo shall consists of all the questions I solve from a particular topic
+# I'll be documenting my journey of 100 DaysOfDSA. This repo shall consists of all the questions I solve from a particular topic. You can click on the folder and find all the questions from that specific type
